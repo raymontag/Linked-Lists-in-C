@@ -1,6 +1,6 @@
 /*
  * lnlists.h
- *      Author: Karsten König <KarstenKoenig@gmx.net>
+ *      Author: Karsten-Kai König <KKoenig@posteo.de>
  *      License: MIT
  *
  *      Hosted and documented on http://github.com/raymontag/Linked-Lists-in-C

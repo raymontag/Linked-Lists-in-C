@@ -1,6 +1,6 @@
 /*
  * lnlist.c
- *      Author: Karsten König <KarstenKoenig@gmx.net>
+ *      Author: Karsten-Kai König <KKoenig@posteo.de>
  *      License: MIT
  */
 
